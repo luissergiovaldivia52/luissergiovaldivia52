@@ -1,1 +1,2 @@
-# -luissergiovaldivia52
+# -Luis Sergio Valdivia
+# -Developer
