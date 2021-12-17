@@ -1,14 +1,23 @@
 #  Luis Sergio Valdivia
 
-## Table of contents
+## 
+<p style="font-family: Times New Roman; font-size: 18px; font-weight: 400; font-style: normal; color: green"> 
+Table of contents
+</p>
 * [Developer](#Developer)
 * [Puedes encontrarme en](#technologies)
 * [Descripcion personal](#setup)
 * [Tecnologias](#tecnologias)
 
-## Developer
+## 
+<p style="font-family: Times New Roman; font-size: 18px; font-weight: 400; font-style: normal; color: green"> 
+Developer
+</p>
 
-### Puedes encontrarme en:
+### 
+<p style="font-family: Times New Roman; font-size: 18px; font-weight: 400; font-style: normal; color: green"> 
+Puedes encontrarme en:
+</p>
 
 
 * [luis_sergio_valdivia@hotmail.com](#email)
@@ -16,7 +25,11 @@
 
 
 
-### Descripcion personal
+### 
+<p style="font-family: Times New Roman; font-size: 18px; font-weight: 400; font-style: normal; color: green"> 
+Descripcion personal
+
+</p>
 
 <p align="left">
  Hola mi nombre es Sergio, soy un desarrollador  Full Stack Developer Web y de Automatismos Industriales. Estoy viviendo en Cordoba Argentina y me gusta desarrollar sitios web que puedan ayudarte a resolver tus problemas.
