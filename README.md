@@ -48,11 +48,16 @@ Descripcion personal
 ### 
 <p style="font-family: Times New Roman; font-size: 18px; font-weight: 400; font-style: normal; color: green"> Tecnologias </p>
 
-- node.js - evented I/O for the backend
 * Javascript
+* node.js 
 
 
-### Logos de tecnologias
+
+### 
+<p style="font-family: Times New Roman; font-size: 18px; font-weight: 400; font-style: normal; color: green">
+Logos de tecnologias
+</p>
+
 <p align="left">
 <img height="150" src="./img/javascript.jpg" />
 </p>
