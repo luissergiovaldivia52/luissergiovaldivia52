@@ -61,8 +61,8 @@
 #### Web
 
 <p align="left">
-<img height="100" src="./img/javascript.jpg" /> </img> |
-<img height="100" src="./img/nodejs.png" /></img> |
+<img height="100" src="./img/javascript.jpg" /> </img> 
+<img height="100" src="./img/nodejs.png" /></img> 
 <img height="100" src="./img/expressjs.jpg" /></img>
 </p>
 <p align="right">
