@@ -9,6 +9,8 @@ Table of contents
 * [Puedes encontrarme en](#technologies)
 * [Descripcion personal](#setup)
 * [Tecnologias](#tecnologias)
+  *  [Tecnologias Web](#tecnologias-web)
+  *  [Tecnologias Automatismo](#tecnologias-automatismo)
 
 ## 
 <p style="font-family: Times New Roman; font-size: 18px; font-weight: 400; font-style: normal; color: green"> 
