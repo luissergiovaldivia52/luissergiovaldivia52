@@ -48,8 +48,21 @@ Descripcion personal
 ### 
 <p style="font-family: Times New Roman; font-size: 18px; font-weight: 400; font-style: normal; color: green"> Tecnologias </p>
 
+#### Tecnologias Web
+
 * Javascript
-* node.js 
+* React.js
+* Node.js 
+* Express.js
+* SequeliZe.js      
+
+#### Tecnologias Automatismo
+
+* Siemens Tia Portal
+* Siemens Simatic Step 7
+* Migracion de Siemens Step 5 a S7 o Tia Portal
+* Schneider PL7-Pro
+* Allen Bradley
 
 
 
