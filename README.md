@@ -58,6 +58,7 @@
 * Migracion de Siemens Step 5 a S7 o Tia Portal
 * Schneider PL7-Pro
 * Allen Bradley
+* Microcontrolador Pic y ARM
 
 
 #
@@ -69,6 +70,7 @@
 <img height="100" src="./img/javascript.jpg" /> </img> 
 <img height="100" src="./img/nodejs.png" /></img> 
 <img height="100" src="./img/expressjs.jpg" /></img>
+<img height="100" src="./img/sequelize.jpg" /></img>
 </p>
 <p align="right">
 
@@ -80,6 +82,7 @@
 <img height="50" src="./img/Siemens.png" />
 <img height="50" src="./img/Schneider_Electric_Logo.png" />
 <img height="50" src="./img/Allen_Bradley_Logo.png" />
+<img height="50" src="./img/arm.jpg" />
 </p>
 
 
