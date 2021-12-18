@@ -99,25 +99,25 @@
 #### Proyecto Automatismo
 
 -  Modificación del ciclo de funcionamiento del dispositivo de Armado General del Renault Clío 
--  Participación en el proyecto en Renault de Balanceles 
-    y trineos con referencial común.
-
+-  Participación en Renault de la modificacion de los programas de PLC de un sistema Balanceles y trineos con referencial común.
+- Proyecto de Robot de encolado de vidrios, modificación del autómata TSX 67 para un nuevo ciclo de encolado del robot. El proyecto fue monitoreado desde Renault Francia.
+- Proyecto migración de PLC Conformador 207 Peugeot. El dispositivo tenia un PLC Siemenes S5-115U y se migro a un  S7-400
+- Proyecto de Tranfert X65(Renault Clio tres puertas). El proyecto consistia en viajar a Brasil, realizar backup de equipos Allen-Bradley y supervisar desconeccion, y envalajes de los dispositivos. Aqui en Argentina se re-conficura la red y se pone en marcha los dipositivo.
+- Se realiza programa (Siemens S5) para nuevas mesas de inspección en la área de hornos en la planta de Peuget - Citroen incluye la automatización de las mismas.
+- Migración de autómata de maquina encargada de carga de 
+  fluidos en vehiculo de la empresa Renault. Se realiza la migracion de un TSX 57 a un Pl7-pro
+- Colocación de autómata de supervisión en  Horno Autoclave perteneciente a la empresa Lockeed Matin (hoy Fadea -fabrica de aviones-)
+   
+     
+   
+    
+  
+  
+   
+     
+    
    
    
-    • Proyecto de Robot de encolado, modificación del autómata 
-    TSX 67 para un nuevo ciclo de encolado del robot. 
-    Se contemplo el agregado de una mesa de depósito. Dicho 
-    proyecto fue monitoreado desde Renault Francia.
-    • Proyecto migración de PLC Conformador 207 Peugeot
-    • Proyecto de Tranfert X65(clio tres puertas)
-    • Proyecto automatización de Prensa en planta Renault
-    • Programador en Peugeot-Citroen (Área pintura)
-    • Colocación de mesas de inspección en la área de hornos 
-    en la planta de Peuget -Citroen incluye la automatización de las mismas.
-    • Migración de autómata de maquina encargada de carga de 
-    fluidos en vehiculo de la empresa Renault
-    • Puesta en marcha y colocación de autómata de supervisión 
-    en  Horno Autoclave perteneciente a la empresa Lockeed Matin.
 
 
 //Stack de Tecnologias
