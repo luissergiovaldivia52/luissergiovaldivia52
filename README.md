@@ -7,8 +7,11 @@
     * [Puedes encontrarme en](#technologies)
     * [Descripcion personal](#setup)
 * [Tecnologias](#tecnologias)
-  *  [Tecnologias Web](#tecnologias-web)
-  *  [Tecnologias Automatismo](#tecnologias-automatismo)
+  *  [Tecnologias Web](#web)
+  *  [Tecnologias Automatismo](#automatismo)
+* [Proyectos](#proyecto)
+  *  [Proyecto Web](#proyecto-web)
+  *  [Proyecto Automatismo](#proyecto-automatismo)
 
 ## Developer 
 
@@ -76,10 +79,23 @@
 </p>
 
 
+###  Proyecto 
+
+#### Proyecto Web
+ 
+##### Proyecto Individual Pokemon
+
+- Se Construyo una App utlizando React, Redux, Node y Sequelize.
+- Usar y practicar testing.
+- Se realizo Frontend y Backend 
+- Se aprendio a consumir datos de una API y crear una data base                 propia utilizando postgresql
+
+##### Proyecto Grupal Restorant
+
+#### Proyecto Automatismo
 
 
-//Agregar proyectos personales y grupales
-    //Agregar lo que se aprende en los proyectos
+
 
 //Stack de Tecnologias
 //Estadisticas
