@@ -98,11 +98,12 @@
 
 #### Proyecto Automatismo
 
-    • Modificación del ciclo en Armado General de Clío y agregado del 
-    nuevo ciclo de Clíper de Techo en una 
-    nueva mesa con sus nuevas bridas.
-    • Participación en el proyecto en Renault de Balanceles 
+-  Modificación del ciclo de funcionamiento del dispositivo de Armado General del Renault Clío 
+-  Participación en el proyecto en Renault de Balanceles 
     y trineos con referencial común.
+
+   
+   
     • Proyecto de Robot de encolado, modificación del autómata 
     TSX 67 para un nuevo ciclo de encolado del robot. 
     Se contemplo el agregado de una mesa de depósito. Dicho 
