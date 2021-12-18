@@ -78,6 +78,8 @@
 
 <p align="left">
 <img height="50" src="./img/Siemens.png" />
+<img height="50" src="./img/Schneider_Electric_Logo.png" />
+<img height="50" src="./img/Allen_Bradley_Logo.png" />
 </p>
 
 
