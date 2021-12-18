@@ -15,6 +15,7 @@
 * [Proyectos](#proyecto)
   *  [Proyecto Web](#proyecto-web)
   *  [Proyecto Automatismo](#proyecto-automatismo)
+  *  [Proyecto Industria 4.0](#proyecto-industria40)
 #
 ## Developer 
 
@@ -133,8 +134,18 @@ ECONOMÍA DIGITAL
 - Migración de autómata de maquina encargada de carga de 
   fluidos en vehiculo de la empresa Renault. Se realiza la migracion de un TSX 57 a un Pl7-pro
 - Colocación de autómata de supervisión en  Horno Autoclave perteneciente a la empresa Lockeed Matin (hoy Fadea -fabrica de aviones-)
-   
-     
+
+
+ #### Proyecto Industria 4.0 
+
+ ##### Logistica de camiones
+- En este proyecto de caracter teorico se realiza el control de camienos , en el ingreso     
+
+<p align="left">
+<img height="500" src="./img/logistica_camiones.jpg" />
+
+</p>
+
    
     
   
