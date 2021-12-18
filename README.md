@@ -105,7 +105,8 @@
     y trineos con referencial común.
     • Proyecto de Robot de encolado, modificación del autómata 
     TSX 67 para un nuevo ciclo de encolado del robot. 
-    Se contemplo el agregado de una mesa de depósito. Dicho proyecto fue monitoreado desde Renault Francia.
+    Se contemplo el agregado de una mesa de depósito. Dicho 
+    proyecto fue monitoreado desde Renault Francia.
     • Proyecto migración de PLC Conformador 207 Peugeot
     • Proyecto de Tranfert X65(clio tres puertas)
     • Proyecto automatización de Prensa en planta Renault
