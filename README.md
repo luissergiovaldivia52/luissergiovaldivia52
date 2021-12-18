@@ -98,7 +98,8 @@
 
 #### Proyecto Automatismo
 
-    • Modificación del ciclo en Armado General de Clío y agregado del nuevo ciclo de Clíper de Techo en una 
+    • Modificación del ciclo en Armado General de Clío y agregado del 
+    nuevo ciclo de Clíper de Techo en una 
     nueva mesa con sus nuevas bridas.
     • Participación en el proyecto en Renault de Balanceles 
     y trineos con referencial común.
