@@ -10,7 +10,7 @@
 * [Tecnologias](#tecnologias)
   *  [Tecnologias Web](#web)
   *  [Tecnologias Automatismo](#automatismo)
-   *  [Tecnologias Industria 4.0](#industria40)
+   * [Tecnologias Industria 4.0](#industria40)
   
 * [Proyectos](#proyecto)
   *  [Proyecto Web](#proyecto-web)
