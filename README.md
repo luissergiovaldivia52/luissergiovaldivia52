@@ -59,6 +59,7 @@
 * Schneider PL7-Pro
 * Allen Bradley
 * Microcontrolador Pic y ARM
+* Lenguaje C/C++
 
 
 #
@@ -83,6 +84,7 @@
 <img height="50" src="./img/Schneider_Electric_Logo.png" />
 <img height="50" src="./img/Allen_Bradley_Logo.png" />
 <img height="50" src="./img/arm.jpg" />
+<img height="50" src="./img/lenguajeC.jpg" />
 </p>
 
 
