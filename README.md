@@ -10,6 +10,8 @@
 * [Tecnologias](#tecnologias)
   *  [Tecnologias Web](#web)
   *  [Tecnologias Automatismo](#automatismo)
+   *  [Tecnologias Industria 4.0](#industria40)
+  
 * [Proyectos](#proyecto)
   *  [Proyecto Web](#proyecto-web)
   *  [Proyecto Automatismo](#proyecto-automatismo)
@@ -29,16 +31,16 @@
 
 
 <p align="left">
- Hola mi nombre es Sergio, soy un desarrollador  Full Stack Developer Web y de Automatismos Industriales. Estoy viviendo en Cordoba Argentina y me gusta desarrollar sitios web que puedan ayudarte a resolver tus problemas.
+ Hola mi nombre es Sergio, soy un desarrollador  Full Stack Developer Web y de Automatismos Industriales. Realize un Diplomatura en Industria 4.0 en la UTN Facultad Reginal Resistencia. Estoy viviendo en Cordoba Argentina y me gusta desarrollar sitios web que puedan ayudarte a resolver tus problemas.
  Me he formado y especializado en el Bootcamp de soyHenry, además de trabajar durante veinte años como programado de automatismo en la Industria Automotriz de Argentina y Brasil.
  En el automatismo comence a programar plc de la marca Siemens Step 5, y lod PL7-3 de la marca Telemecanique. Seguido por la evolucion de la tecnologia continue con la programacion de Siemens Simatic S7-300 y S7-400 en el caso de Siemens y PL7-pro en Schneider. Hoy en dia realice una capacitacion en Tia Portal.
  En cuanto a developer Full Stack Developer manejo las tecnologias de Javascript,
  React.js, Node.js, express and sequelize.
+ Realize el secundario tecnico el cual al terminar los seis años de cursado se me dio el titulo de Tecnico Electronico Indutrial. Me inscri en la UTN (Universidad Tecnologia Naciona Reginal Cordoba) y realize en cursado de Ingeniria Electronica la cualla cual curse hasta quinto año y teniendo aproba el cuarto año. 
  
 
-
-
 </p>
+
 
 #
 ###  Tecnologias 
@@ -60,6 +62,23 @@
 * Allen Bradley
 * Microcontrolador Pic y ARM
 * Lenguaje C/C++
+
+#### Tecnologias Industria 4.0
+
+* TECNOLOGÍAS FACILITADORAS Y SISTEMAS
+CIBER-FÍSICOS
+* TRANSFORMACIÓN DIGITAL EN EMPRESAS
+* CLOUD COMPUTING, LA NUBE
+* BIG DATA, OPEN DATA Y DATA ANALYTICS
+* INTERNET DE LAS COSAS Y SMART CITIES
+* INTELIGENCIA ARTIFICIAL APLICADA
+* ROBÓTICA COLABORATIVA - COBOTS
+* CIBERSEGURIDAD INDUSTRIAL
+* FABRICACIÓN ADITIVA, IMPRESIÓN 3D Y 4D
+* BLOCKCHAIN Y LOS NUEVOS PILARES DE LA
+ECONOMÍA DIGITAL
+
+
 
 
 #
