@@ -139,13 +139,29 @@ ECONOMÍA DIGITAL
  #### Proyecto Industria 4.0 
 
  ##### Logistica de camiones
-- En este proyecto de caracter teorico se realiza el control de camienos , en el ingreso     
+- En este proyecto de caracter teorico se realiza el control del ingreso, salida, carga y conductor de camiones de carga logistica.    
 
 <p align="left">
 <img height="500" src="./img/logistica_camiones.jpg" />
 
 </p>
 
+##### Joyeria 4.0
+- En este nuevo proyecto el cliente realiza la compra de una joya a una joyeria 4.0
+El cliente cominza con elegir un diseño he implemerlo en modo virtual, luego la solicita y la compra y espera la misma en su  casa para su envio.
+
+  - Importancia de las redes y web que puedan captar clientes
+  - Uso de la nube o cloud para la adquisiscion de datos
+  - Implemtacion de analisis de datos
+  - Implematacion de gemelos digitales
+  - robotica en la fabicacion del producto
+  - logistica autonoma vehiculos y drones
+
+
+<p align="left">
+<img height="500" src="./img/joyeria.jpg" />
+</p>
+ 
    
     
   
@@ -157,5 +173,3 @@ ECONOMÍA DIGITAL
    
 
 
-//Stack de Tecnologias
-//Estadisticas
