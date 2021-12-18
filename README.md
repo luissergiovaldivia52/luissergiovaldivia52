@@ -1,7 +1,7 @@
 #  Luis Sergio Valdivia
 
 ## Table of contents
-#
+
 
 
 * [Developer](#Developer)
@@ -15,7 +15,7 @@
   *  [Proyecto Automatismo](#proyecto-automatismo)
 #
 ## Developer 
-#
+
 
 ### Puedes encontrarme en:
 
@@ -42,7 +42,7 @@
 
 #
 ###  Tecnologias 
-#
+
 #### Tecnologias Web
 
 * Javascript
@@ -62,7 +62,7 @@
 
 #
 ### Logos de tecnologias 
-#
+
 #### Web
 
 <p align="left">
@@ -84,7 +84,7 @@
 
 #
 ###  Proyecto 
-#
+
 #### Proyecto Web
  
 ##### Proyecto Individual Pokemon
