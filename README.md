@@ -116,10 +116,10 @@ ECONOMÍA DIGITAL
  
 ##### Proyecto Individual Pokemon
 
-- Se Construyo una App utlizando React, Redux, Node y Sequelize.
-- Usar y practicar testing.
-- Se realizo Frontend y Backend 
-- Se aprendio a consumir datos de una API y crear una data base                 propia utilizando postgresql
+Mi Proyecto que he realizado en el bootcamp. Lo llame a pedido del bootcamp PI-Pokemon y realmente disfruté trabajando en él. He usado (y aprendido a usar) muchas tecnologías.
+Para el front-end utilicé Reactjs, react-redux con el que realizo la lamada al back,  y CSS (Styled Components) con el que implementé temas noche/dia y versiones responsivas.
+En el back-end de mi proyecto utilicé postgresQL, sequelize y express.js, con lo que cree una base de datos para guardar los datos y la posibilidad de actualizar la información agregando nuevos pokemon. Ordenamientos búsquedas y filtros se realizaron en el back
+En esta aplicación consumí la APl gratuita de pokemon y luego cree mi propia base de datos. Finalmente realice los backup y seguimiento de las versiones en Github
 
 ##### Proyecto Grupal Restorant
 
