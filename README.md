@@ -121,6 +121,12 @@ Para el front-end utilicé Reactjs, react-redux con el que realizo la lamada al 
 En el back-end de mi proyecto utilicé postgresQL, sequelize y express.js, con lo que cree una base de datos para guardar los datos y la posibilidad de actualizar la información agregando nuevos pokemon. Ordenamientos búsquedas y filtros se realizaron en el back
 En esta aplicación consumí la APl gratuita de pokemon y luego cree mi propia base de datos. Finalmente realice los backup y seguimiento de las versiones en Github
 
+##### Proyecto Nasa
+
+Este proyecto esta en construccion.
+Consistiria en un sitio para poder visisualizar fotos que tomaron los rovers que se encuentran en Martes.
+###   Coming Soon!!
+
 ##### Proyecto Grupal Restorant
 
 #### Proyecto Automatismo
